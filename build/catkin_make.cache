@@ -1,0 +1,2 @@
+qtros
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/jian/qt_trail/devel -DCMAKE_INSTALL_PREFIX=/home/jian/qt_trail/install
